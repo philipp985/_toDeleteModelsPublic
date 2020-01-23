@@ -1,3 +1,4 @@
+//**This contains all necessary information */
 export  interface ReleaseNote {
     releaseNoteId: string;
     createdById: number;
